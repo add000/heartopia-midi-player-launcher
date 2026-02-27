@@ -3,7 +3,7 @@
 This launcher is designed to make it easier to open and play MIDI files using [Heartopia-Midi-Player](https://github.com/DonElf/Heartopia-Midi-Player/releases/tag/v1).
 
 ## Features
-- Quickly open `MIDI` files with Heartopia-Midi-Player (works like **Open With**).
+- Quickly open `.mid` files with Heartopia-Midi-Player (works like **Open With**).
 - Add multiple MIDI files to choose from.
 - Provides a button to directly close Heartopia-Midi-Player to stop playback.
 
